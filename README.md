@@ -32,6 +32,8 @@ PANet과 FPN 구조보다 더 간결<br>
 Depthwise Convolution 기반의 경량화된 Detection Head<br>
 Mobile 환경이나 Edge 추론에 최적화<br>
 
+<img width="813" height="484" alt="image" src="https://github.com/user-attachments/assets/1adbd9f7-c88c-47ce-b858-29e03341805c" />
+
 | 모델 종류     | 설명                       |
 | ------------- | ------------------------ |
 | `yolov11n.pt` | nano: 가장 가볍고 빠름          |
