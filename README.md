@@ -2,11 +2,12 @@
 
 ## 어제에 이어서 YOLOv8에 사진이 아닌 비디오를 넣어보자.
 [미션3개가 담긴 코드](0717_YOLOv8_video.ipynb) : 마지막 코드는 YOLOv11 설치 오류라 그런것.<br>
-(colab의 ram사용가능량 제한 문제로 0717 오늘자는 나의 구글계정으로 진행함.)
+(colab의 ram사용가능량 제한 문제로 0717 오늘자는 나의 구글계정으로 진행함.)<br>
 
 미션1. 교수님의 주행영상 19초 짜리를 직접 업로드해서 runs/detect/predict 폴더에 같은 이름의 .avi 결과영상이 나온다.<br>
 미션2. temp_video.avi는 유튜브 링크로만 영상을 업로드해서, 제목이 temp로 붙혀진 것일뿐. 내용은 동일하다.<br>
 <img width="343" height="484" alt="image" src="https://github.com/user-attachments/assets/b2ff10f0-33cf-45e7-9dea-c6a0a262f6e7" /><br>
+(결과영상 다운로드 오류가 뜨긴하지만, 왼쪽 메뉴에서 다운받으면 결과영상 확인가능)
 <img width="1184" height="637" alt="image" src="https://github.com/user-attachments/assets/29ebfc31-da2c-4be6-b8dc-342491c644e8" /><br>
 -결과영상1
 <img width="1189" height="671" alt="image" src="https://github.com/user-attachments/assets/e1de854d-7df0-4455-9e49-37aba7b0d201" /><br>
