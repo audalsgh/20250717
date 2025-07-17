@@ -8,7 +8,9 @@
 미션2. temp_video.avi는 유튜브 링크로만 영상을 업로드해서, 제목이 temp로 붙혀진 것일뿐. 내용은 동일하다.<br>
 <img width="343" height="484" alt="image" src="https://github.com/user-attachments/assets/b2ff10f0-33cf-45e7-9dea-c6a0a262f6e7" /><br>
 <img width="1184" height="637" alt="image" src="https://github.com/user-attachments/assets/29ebfc31-da2c-4be6-b8dc-342491c644e8" /><br>
--결과영상
+-결과영상1
+<img width="1189" height="671" alt="image" src="https://github.com/user-attachments/assets/e1de854d-7df0-4455-9e49-37aba7b0d201" /><br>
+-결과영상2
 
 ## 3번째 문제, 추가적으로 YOLOv11도 사용해보자.
 [Ultralytics YOLOv11 공식 문서](https://docs.ultralytics.com/ko/models/yolo11/) : **YOLOv11은 YOLOv8 대비 성능·속도 모두 개선된 차세대 모델**
