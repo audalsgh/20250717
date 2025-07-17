@@ -19,16 +19,16 @@ temp_video.avi는 유튜브 링크로만 영상을 업로드해서, 제목이 te
 - 기존 API와도 완전히 호환됨
 
 **모델 아키텍쳐 용어 정리**
-1. RepNCSPELAN4C
+1. RepNCSPELAN4C<br>
 YOLOv8의 CSP 구조를 개선한 백본<br>
 연산량 감소 + 표현력 향상<br>
 모델 경량화 + 정확도 향상 동시에 달성<br>
 
-2. CBLinearNeck
+2. CBLinearNeck<br>
 PANet과 FPN 구조보다 더 간결<br>
 빠른 속도, 작은 크기, 낮은 메모리 사용량<br>
 
-3. DConvHead
+3. DConvHead<br>
 Depthwise Convolution 기반의 경량화된 Detection Head<br>
 Mobile 환경이나 Edge 추론에 최적화<br>
 
