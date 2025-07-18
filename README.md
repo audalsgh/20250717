@@ -15,6 +15,8 @@
 
 ## 3번째 문제, 추가적으로 YOLOv11도 사용해보자.
 [Ultralytics YOLOv11 공식 문서](https://docs.ultralytics.com/ko/models/yolo11/) : **YOLOv11은 YOLOv8 대비 성능·속도 모두 개선된 차세대 모델**
+Neck은 다양한 스케일의 특징 맵(feature maps)을 융합하여 작은/중간/큰 객체를 모두 감지할 수 있게 하는 YOLO의 구조중 하나<br>
+
 - 기존 YOLOv8 대비 더 높은 정확도와 속도를 제공
 - 모델 아키텍쳐 : (C2f, Conv, RepConv 등) -> (RepNCSPELAN4C, CBLinearNeck, DConvHead 등)으로 향상이 있음
 - 백본 구조 : ELAN-CSP 기반 ->	더 깊고 가볍게 최적화된 CSP 구조
